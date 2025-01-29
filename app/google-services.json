@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217038493730",
+    "project_id": "otpauth-3c1d3",
+    "storage_bucket": "otpauth-3c1d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217038493730:android:343689fb46030d3429927b",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KMD3gdWah53XsHiiliNI6q-5gq1doI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

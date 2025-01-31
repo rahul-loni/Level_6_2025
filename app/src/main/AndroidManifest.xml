@@ -13,6 +13,9 @@
         android:theme="@style/Theme.OTP_AUTH"
         tools:targetApi="31">
         <activity
+            android:name=".Items_Details_Page"
+            android:exported="false" />
+        <activity
             android:name=".Items_Card"
             android:exported="false" />
         <activity

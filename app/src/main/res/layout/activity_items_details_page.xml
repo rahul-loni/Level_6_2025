@@ -55,11 +55,12 @@
             android:layout_height="70dp"
             android:telayout_marginRightxt="Edit Items"
             android:="10dp"
+            android:text="Edit Item"
             android:textSize="22sp"/>
         <Button
             android:layout_width="170dp"
             android:layout_height="70dp"
-            android:text="Share Items "
+            android:text="Share Item "
             android:layout_marginLeft="10dp"
             android:textSize="22sp"/>
 
